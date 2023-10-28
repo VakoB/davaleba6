@@ -1,0 +1,16 @@
+C:\Users\x\source\repos\დავალება6\bin\Debug\net6.0-windows\დავალება6.exe
+C:\Users\x\source\repos\დავალება6\bin\Debug\net6.0-windows\დავალება6.deps.json
+C:\Users\x\source\repos\დავალება6\bin\Debug\net6.0-windows\დავალება6.runtimeconfig.json
+C:\Users\x\source\repos\დავალება6\bin\Debug\net6.0-windows\დავალება6.dll
+C:\Users\x\source\repos\დავალება6\bin\Debug\net6.0-windows\დავალება6.pdb
+C:\Users\x\source\repos\დავალება6\obj\Debug\net6.0-windows\დავალება6.Form1.resources
+C:\Users\x\source\repos\დავალება6\obj\Debug\net6.0-windows\დავალება6.csproj.GenerateResource.cache
+C:\Users\x\source\repos\დავალება6\obj\Debug\net6.0-windows\დავალება6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\დავალება6\obj\Debug\net6.0-windows\დავალება6.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\დავალება6\obj\Debug\net6.0-windows\დავალება6.AssemblyInfo.cs
+C:\Users\x\source\repos\დავალება6\obj\Debug\net6.0-windows\დავალება6.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\დავალება6\obj\Debug\net6.0-windows\დავალება6.dll
+C:\Users\x\source\repos\დავალება6\obj\Debug\net6.0-windows\refint\დავალება6.dll
+C:\Users\x\source\repos\დავალება6\obj\Debug\net6.0-windows\დავალება6.pdb
+C:\Users\x\source\repos\დავალება6\obj\Debug\net6.0-windows\დავალება6.genruntimeconfig.cache
+C:\Users\x\source\repos\დავალება6\obj\Debug\net6.0-windows\ref\დავალება6.dll
